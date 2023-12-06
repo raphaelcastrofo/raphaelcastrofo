@@ -1,17 +1,15 @@
-### Hi there I'm Raphael Oliveira 👋
+👋 Hello, I'm Raphael Oliveira!
 
-<!--
+🚀 Currently immersed in a self-taught learning journey to become a Web Developer. My goal is to turn my passion for technology into a solid career as a web developer in the coming months.
 
+📚 I'm diving into various technologies, including HTML, CSS, JavaScript, and frameworks like React. Always seeking challenges that drive my growth and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My dream is to contribute to amazing projects while securing a 100% remote job opportunity here in Europe. I am open to collaborations, constructive feedback, and, of course, new friendships in the programming world.
+
+🌍 My current location is Budapest, Hungary. But I am determined to build a career that allows me to work remotely, contributing to global projects.
+
+🔗 Connect with me! I'm eager to learn, share experiences, and grow together with the developer community. Let's build something amazing together! 💻✨
+
 
  <div>
   <a href="https://github.com/raphaelcastrofo">
