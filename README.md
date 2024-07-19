@@ -1,15 +1,5 @@
 👋 Hello, I'm Raphael Oliveira!
 
-🚀 Currently immersed in a self-taught learning journey to become a Web Developer. My goal is to turn my passion for technology into a solid career as a Mobile developer in the coming months.
-
-📚 I'm diving principaly into kotling but have studied various technologies, including HTML, CSS, JavaScript, and frameworks like React. Always seeking challenges that drive my growth and continuous learning.
-
-💻 My dream is to contribute to amazing projects while securing a 100% remote job opportunity here in Europe. I am open to collaborations, constructive feedback, and, of course, new friendships in the programming world.
-
-🌍 My current location is Budapest, Hungary. But I am determined to build a career that allows me to work remotely, contributing to global projects.
-
-🔗 Connect with me! I'm eager to learn, share experiences, and grow together with the developer community. Let's build something amazing together! 💻✨
-
 
  <div>
   <a href="https://github.com/raphaelcastrofo">
